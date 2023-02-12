@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/carlosmndzg/advice-generator)
--   Live Site URL: [Add live site URL here](https://app-advice-generator-react.netlify.app/)
+-   Solution URL: [Solution URL](https://github.com/carlosmndzg/advice-generator)
+-   Live Site URL: [Live Site URL](https://app-advice-generator-react.netlify.app/)
 
 ## My process
 
